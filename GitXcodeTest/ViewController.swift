@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         //is it working?
         // is it commiting
         //is it contributing
+        // is it contributin 3?
         
     }
 
