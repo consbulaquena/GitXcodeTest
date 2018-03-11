@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         //just tryin
         //is it working?
+        // is it commiting
         
     }
 
